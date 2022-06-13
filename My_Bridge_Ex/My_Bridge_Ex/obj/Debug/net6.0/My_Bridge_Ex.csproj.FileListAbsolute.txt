@@ -1,0 +1,15 @@
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Estruturais GOF\Bridge\Exercicio_meu\My_Bridge_Ex\My_Bridge_Ex\bin\Debug\net6.0\My_Bridge_Ex.exe
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Estruturais GOF\Bridge\Exercicio_meu\My_Bridge_Ex\My_Bridge_Ex\bin\Debug\net6.0\My_Bridge_Ex.deps.json
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Estruturais GOF\Bridge\Exercicio_meu\My_Bridge_Ex\My_Bridge_Ex\bin\Debug\net6.0\My_Bridge_Ex.runtimeconfig.json
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Estruturais GOF\Bridge\Exercicio_meu\My_Bridge_Ex\My_Bridge_Ex\bin\Debug\net6.0\My_Bridge_Ex.dll
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Estruturais GOF\Bridge\Exercicio_meu\My_Bridge_Ex\My_Bridge_Ex\bin\Debug\net6.0\My_Bridge_Ex.pdb
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Estruturais GOF\Bridge\Exercicio_meu\My_Bridge_Ex\My_Bridge_Ex\obj\Debug\net6.0\My_Bridge_Ex.csproj.AssemblyReference.cache
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Estruturais GOF\Bridge\Exercicio_meu\My_Bridge_Ex\My_Bridge_Ex\obj\Debug\net6.0\My_Bridge_Ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Estruturais GOF\Bridge\Exercicio_meu\My_Bridge_Ex\My_Bridge_Ex\obj\Debug\net6.0\My_Bridge_Ex.AssemblyInfoInputs.cache
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Estruturais GOF\Bridge\Exercicio_meu\My_Bridge_Ex\My_Bridge_Ex\obj\Debug\net6.0\My_Bridge_Ex.AssemblyInfo.cs
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Estruturais GOF\Bridge\Exercicio_meu\My_Bridge_Ex\My_Bridge_Ex\obj\Debug\net6.0\My_Bridge_Ex.csproj.CoreCompileInputs.cache
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Estruturais GOF\Bridge\Exercicio_meu\My_Bridge_Ex\My_Bridge_Ex\obj\Debug\net6.0\My_Bridge_Ex.dll
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Estruturais GOF\Bridge\Exercicio_meu\My_Bridge_Ex\My_Bridge_Ex\obj\Debug\net6.0\refint\My_Bridge_Ex.dll
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Estruturais GOF\Bridge\Exercicio_meu\My_Bridge_Ex\My_Bridge_Ex\obj\Debug\net6.0\My_Bridge_Ex.pdb
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Estruturais GOF\Bridge\Exercicio_meu\My_Bridge_Ex\My_Bridge_Ex\obj\Debug\net6.0\My_Bridge_Ex.genruntimeconfig.cache
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Estruturais GOF\Bridge\Exercicio_meu\My_Bridge_Ex\My_Bridge_Ex\obj\Debug\net6.0\ref\My_Bridge_Ex.dll
