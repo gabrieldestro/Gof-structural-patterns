@@ -1,0 +1,15 @@
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Estruturais GOF\Proxy\Ex_Proxy_Imp\Ex_Proxy_Imp\bin\Debug\net6.0\Ex_Proxy_Imp.exe
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Estruturais GOF\Proxy\Ex_Proxy_Imp\Ex_Proxy_Imp\bin\Debug\net6.0\Ex_Proxy_Imp.deps.json
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Estruturais GOF\Proxy\Ex_Proxy_Imp\Ex_Proxy_Imp\bin\Debug\net6.0\Ex_Proxy_Imp.runtimeconfig.json
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Estruturais GOF\Proxy\Ex_Proxy_Imp\Ex_Proxy_Imp\bin\Debug\net6.0\Ex_Proxy_Imp.dll
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Estruturais GOF\Proxy\Ex_Proxy_Imp\Ex_Proxy_Imp\bin\Debug\net6.0\Ex_Proxy_Imp.pdb
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Estruturais GOF\Proxy\Ex_Proxy_Imp\Ex_Proxy_Imp\obj\Debug\net6.0\Ex_Proxy_Imp.csproj.AssemblyReference.cache
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Estruturais GOF\Proxy\Ex_Proxy_Imp\Ex_Proxy_Imp\obj\Debug\net6.0\Ex_Proxy_Imp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Estruturais GOF\Proxy\Ex_Proxy_Imp\Ex_Proxy_Imp\obj\Debug\net6.0\Ex_Proxy_Imp.AssemblyInfoInputs.cache
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Estruturais GOF\Proxy\Ex_Proxy_Imp\Ex_Proxy_Imp\obj\Debug\net6.0\Ex_Proxy_Imp.AssemblyInfo.cs
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Estruturais GOF\Proxy\Ex_Proxy_Imp\Ex_Proxy_Imp\obj\Debug\net6.0\Ex_Proxy_Imp.csproj.CoreCompileInputs.cache
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Estruturais GOF\Proxy\Ex_Proxy_Imp\Ex_Proxy_Imp\obj\Debug\net6.0\Ex_Proxy_Imp.dll
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Estruturais GOF\Proxy\Ex_Proxy_Imp\Ex_Proxy_Imp\obj\Debug\net6.0\refint\Ex_Proxy_Imp.dll
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Estruturais GOF\Proxy\Ex_Proxy_Imp\Ex_Proxy_Imp\obj\Debug\net6.0\Ex_Proxy_Imp.pdb
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Estruturais GOF\Proxy\Ex_Proxy_Imp\Ex_Proxy_Imp\obj\Debug\net6.0\Ex_Proxy_Imp.genruntimeconfig.cache
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Estruturais GOF\Proxy\Ex_Proxy_Imp\Ex_Proxy_Imp\obj\Debug\net6.0\ref\Ex_Proxy_Imp.dll
